@@ -7,7 +7,7 @@ https://spring.academy/courses/building-a-rest-api-with-spring-boot/
 - [x] API Contracts & JSON
 - [x] Testing First
 - [x] Lab: Testing First
-- [ ] Implementing GET
+- [x] Implementing GET
 - [ ] Lab: Implementing GET
 - [ ] Repositories & Spring Data
 - [ ] Lab: Repositories & Spring Data
