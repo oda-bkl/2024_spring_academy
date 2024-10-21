@@ -8,13 +8,13 @@ https://spring.academy/courses/building-a-rest-api-with-spring-boot/
 - [x] Testing First
 - [x] Lab: Testing First
 - [x] Implementing GET
-- [ ] Lab: Implementing GET
-- [ ] Repositories & Spring Data
-- [ ] Lab: Repositories & Spring Data
+- [x] Lab: Implementing GET
+- [x] Repositories & Spring Data
+- [x] Lab: Repositories & Spring Data
 
 # Module 2 - Developing a Secure App
-- [ ] Implementing POST
-- [ ] Lab: Implementing POST
+- [x] Implementing POST
+- [x] Lab: Implementing POST
 - [ ] Returning a list with GET
 - [ ] Lab: Returning a list with GET
 - [ ] Simple Spring Security
