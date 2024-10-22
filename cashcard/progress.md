@@ -15,8 +15,8 @@ https://spring.academy/courses/building-a-rest-api-with-spring-boot/
 # Module 2 - Developing a Secure App
 - [x] Implementing POST
 - [x] Lab: Implementing POST
-- [ ] Returning a list with GET
-- [ ] Lab: Returning a list with GET
+- [x] Returning a list with GET
+- [6/9] Lab: Returning a list with GET
 - [ ] Simple Spring Security
 - [ ] Lab: Simple Spring Security
 
