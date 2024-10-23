@@ -23,7 +23,9 @@ Repository (Abstraction for any Database), Database
 ## HTTP 201 CREATED
 - Needs a Location header with the URI of the newly created resource.
 
-
+## CSRF
+Cross-Site Request Forgery
+- When should you use CSRF protection? Our recommendation is to use CSRF protection for any request that could be processed by a browser by normal users. If you are only creating a service that is used by non-browser clients, you will likely want to disable CSRF protection.
 
 
 ## Links

@@ -16,9 +16,9 @@ https://spring.academy/courses/building-a-rest-api-with-spring-boot/
 - [x] Implementing POST
 - [x] Lab: Implementing POST
 - [x] Returning a list with GET
-- [6/9] Lab: Returning a list with GET
-- [ ] Simple Spring Security
-- [ ] Lab: Simple Spring Security
+- [x] Lab: Returning a list with GET
+- [x] Simple Spring Security
+- [x] Lab: Simple Spring Security
 
 # Module 3 - Rounding Out CRUD
 - [ ] Implementing PUT
